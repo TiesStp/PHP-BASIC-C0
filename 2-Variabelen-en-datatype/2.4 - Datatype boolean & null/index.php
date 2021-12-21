@@ -4,9 +4,9 @@
 
 <?php
 $test = true;
-echo "de waarde van test is: " . $test . "<br>";
-$test = null;
-echo "de waarde van test is: " . $test . "<br>";
+echo " " . $test . "<br>";
+$test = false;
+echo "" . $test . "<br>";
 ?>
 
 </body>
