@@ -4,9 +4,9 @@
 
 <?php
  $myMovies = array("Spiderman", "Batman", "The Joker");
- echo $myMovies[0];
- echo $myMovies[1];
- echo $myMovies[2];
+ echo "<li>Spiderman</li><li>Batman<li>The Joker</li>";
+ 
+
 ?>
 
 </body>
